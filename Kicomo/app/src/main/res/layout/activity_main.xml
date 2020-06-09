@@ -37,6 +37,15 @@
             android:src="@drawable/scarf_mask" />
 
         <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:gravity="center_horizontal"
+            android:text="For orders or business inquiries: (Press, Collaborations, Modeling, Fashion Shows) see contact information"
+            android:textColor="@android:color/black"
+            android:textSize="14sp" />
+
+        <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="8dp"
@@ -113,7 +122,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginLeft="16dp"
-            android:layout_marginTop="16dp"
+            android:layout_marginTop="8dp"
             android:layout_marginBottom="16dp"
             android:text="@string/kicomo_description"
             android:textColor="@android:color/black"
