@@ -28,6 +28,9 @@
     <string name="order_summary_quantity">Quantity: <xliff:g id="quantity" example="2">%d</xliff:g></string>
 
     <string name="order_summary_price">Total: <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="decrement">-</string>
+    <string name="increment">+</string>
+    <string name="price_num">$10.00</string>
 
 
 </resources>
