@@ -18,3 +18,11 @@ Business Description for KICOMO By Kiara C. Morrow
 Order coffee with or without toppings and display the order summary
 
 <img src="https://i.imgur.com/lh5kQwz.png" width="275">   <img src="https://i.imgur.com/skVNWCk.png" width="275">
+
+
+## Project 4: [Miwok Translator](https://github.com/Eman214/Android-Development-for-Beginners/tree/master/Miwok%20Translator) 
+### Translates selected English words and phrases into Miwok
+
+<img src="https://i.imgur.com/uSPUEhB.png" width="275" height="455">  <img src="https://i.imgur.com/taoxmTY.png" width="275">
+<img src="https://i.imgur.com/QRq6MeY.png" width="275">  <img src="https://i.imgur.com/q2LHeYq.png" width="275">
+<img src="https://i.imgur.com/e0xlly7.png" width="275">
