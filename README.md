@@ -53,7 +53,8 @@ the License.
 ### Create a Java class to contain the info for a student report card.
 
 
-## Project 6: [Tour Guide App](https://github.com/Eman214/Android-Development-for-Beginners/tree/master/ReportCard) 
+
+## Project 6: [Tour Guide App](https://github.com/Eman214/Android-Development-for-Beginners/tree/master/TourGuide) 
 ### The goal is to create a tour guide app which presents relevant information to a user who’s visiting your city.
 The app has four categories: Restaurants, museums, monuments and memorials, and events. Each category has a list of cards 
 each with an attraction relevent to the given category.  Clicking on a card will open google maps and given you the gps
