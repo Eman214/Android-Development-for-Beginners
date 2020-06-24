@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_restaurant">
+
+        <TextView
+            android:id="@+id/restaurants"
+            style="@style/CategoryStyle"
+            android:text="@string/restaurant_category" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_museum">
+
+        <TextView
+            android:id="@+id/museums"
+            style="@style/CategoryStyle"
+            android:text="@string/museum_category" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_historical">
+
+        <TextView
+            android:id="@+id/monuments"
+            style="@style/CategoryStyle"
+            android:text="@string/monument_category" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/category_events">
+
+        <TextView
+            android:id="@+id/events"
+            style="@style/CategoryStyle"
+            android:text="@string/event_category" />
+    </FrameLayout>
+
+</LinearLayout>

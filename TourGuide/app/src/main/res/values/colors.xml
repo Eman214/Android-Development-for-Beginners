@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#6200EE</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#3700B3</color>
+
+    <!-- Background color for app -->
+
+    <!-- Background color for the restaurant category -->
+    <color name="category_restaurant">#ED2828</color>
+
+    <!-- Background color for the museum category -->
+    <color name="category_museum">#979192</color>
+
+    <!-- Background color for the historical sites category -->
+    <color name="category_historical">#405DB6</color>
+
+    <!-- Background color for the events category -->
+    <color name="category_events">#649A4D</color>
+</resources>

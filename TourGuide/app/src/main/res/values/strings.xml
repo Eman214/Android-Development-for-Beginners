@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Washington D.C. Tour Guide</string>
+
+    //Strings for the restaurant category
+    <string name="restaurant_name_1">Ambar Capitol Hill</string>
+    <string name="restaurant_contact_1">+1 202–813–3039</string>
+    <string name="restaurant_address_1">523 8th St SE, Washington DC, 20003–2835</string>
+    <string name="restaurant_name_2">The Pembroke Restaurant</string>
+    <string name="restaurant_contact_2">+1 202–448–4302</string>
+    <string name="restaurant_address_2">1500 New Hampshire Ave NW Dupont Circle Hotel, Washington DC, 20036–1204</string>
+    <string name="restaurant_name_3">Busboys and Poets</string>
+    <string name="restaurant_contact_3">+1 202–789–2227</string>
+    <string name="restaurant_address_3">450 K St NW, Washington DC, 20001–3097</string>
+    <string name="restaurant_name_4">Ben\'s Chili Bowl</string>
+    <string name="restaurant_contact_4">+1 202–667–0909</string>
+    <string name="restaurant_address_4">1213 U St NW, Washington DC, 20009–4442</string>
+
+    //Strings for the museum category
+    <string name="museum_name_1">Madame Tussauds</string>
+    <string name="museum_contact_1">202–942–7300</string>
+    <string name="museum_address_1">1001 F Street, NW Washington, DC 20004</string>
+    <string name="museum_name_2">National Museum of African American History and Culture</string>
+    <string name="museum_contact_2">202–633–1000</string>
+    <string name="museum_address_2">1400 Constitution Ave. NW Washington, DC 20001</string>
+    <string name="museum_name_3">National Air and Space Museum</string>
+    <string name="museum_contact_3">202–633–2214</string>
+    <string name="museum_address_3">655 Jefferson Drive, SW Washington, DC 20560</string>
+    <string name="museum_name_4">Basilica of the National Shrine of the Immaculate Conception</string>
+    <string name="museum_contact_4">202–526–8300</string>
+    <string name="museum_address_4">400 Michigan Avenue, NE Washington, DC 20017</string>
+
+    //Strings for the monument category
+    <string name="monument_name_1">Martin Luther King, Jr. Memorial</string>
+    <string name="monument_address_1">1964 Independence Ave. SW Washington, DC 20024</string>
+    <string name="monument_name_2">National Mall</string>
+    <string name="monument_address_2">Between Constitution &amp; Independence Ave. SW Washington, DC 20050</string>
+    <string name="monument_name_3">National 9/11 Pentagon Memorial</string>
+    <string name="monument_address_3">1 Rotary Rd. Arlington, VA 20301</string>
+    <string name="monument_name_4">African American Civil War Memorial</string>
+    <string name="monument_address_4">1925 Vermont Ave. NW Washington, DC 20001</string>
+
+    //Strings for the event category
+    <string name="event_name_1">Arlington Fright Night HalloWeekend Pub Crawl</string>
+    <string name="event_contact_1">202–942–7300</string>
+    <string name="event_address_1">1001 F Street, NW Washington, DC 20004</string>
+    <string name="event_date_1">Sat, October 31</string>
+    <string name="event_name_2">DC Comedy Festival: Best of the Fest - Monthly Showcase</string>
+    <string name="event_contact_2">202–942–7300</string>
+    <string name="event_address_2">625 Monroe St NE Washington, DC 20017</string>
+    <string name="event_date_2">Thu, September 24, 8:30 PM – 10:30 PM</string>
+
+    //Category strings
+    <string name="restaurant_category">Restaurants</string>
+    <string name="museum_category">Museums</string>
+    <string name="monument_category">Monuments &amp; Memorials</string>
+    <string name="event_category">Events</string>
+    <string name="card_img_description">attraction</string>
+
+
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:paddingBottom="16dp"
+        card_view:cardCornerRadius="4dp"
+        card_view:cardElevation="4dp">
+
+        <LinearLayout
+            android:id="@+id/text_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingBottom="16dp">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="match_parent"
+                android:layout_height="175dp"
+                android:layout_marginBottom="8dp"
+                android:contentDescription="@string/card_img_description"
+                android:scaleType="fitXY"
+                tools:src="@drawable/restaurant_img_1" />
+
+            <TextView
+                android:id="@+id/attraction_name"
+                style="@style/CardInfo"
+                android:paddingBottom="0dp"
+                android:textAllCaps="true"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                tools:text="Washington Monument" />
+
+            <TextView
+                android:id="@+id/attraction_date"
+                style="@style/CardInfo"
+                tools:text="July 10" />
+
+            <TextView
+                android:id="@+id/attraction_contact"
+                style="@style/CardInfo"
+                android:paddingTop="8dp"
+                tools:text="xxx-xxx-xxxx" />
+
+            <TextView
+                android:id="@+id/attraction_address"
+                style="@style/CardInfo"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"
+                tools:text="15860 Forest Side Dr Grand Haven, Michigan(MI), 49417" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
