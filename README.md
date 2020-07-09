@@ -61,3 +61,10 @@ each with an attraction relevent to the given category.  Clicking on a card will
 location associated with the attraction.
 
 <img src="https://i.imgur.com/ihPITaJ.gif" width="275">
+
+
+## Project 7: [Quake Report](https://github.com/Eman214/Android-Development-for-Beginners/tree/master/QuakeReport) 
+### Create a app that displays up to 10 of the most recent earthquakes that registered above 6.0.
+Clicking on one of the earthquakes takes you to the USGS website for more details on it.
+
+<img src="https://i.imgur.com/okDuaMU.png" width="275">
